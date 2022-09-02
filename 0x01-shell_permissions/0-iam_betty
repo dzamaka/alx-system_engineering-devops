@@ -1,1 +1,2 @@
-VimCrypt~03!CôâàR¿çJ8B¬´lÎ	Ã³tI¾ã„­5é¯ÍA¡íB)Ùã6—6
+#!/bin/bash
+su -l betty 
